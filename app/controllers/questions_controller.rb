@@ -1,6 +1,5 @@
 class QuestionsController < ApplicationController
   def ask
-    return ""
   end
 
   def answer
